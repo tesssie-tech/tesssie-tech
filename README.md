@@ -1,5 +1,4 @@
 
-Theresa-.O.-Akuruli
 Hi there, I'm Theresa Akuruli
 
 Computer Science Student | Data Enthusiast | Aspiring Software Engineer
