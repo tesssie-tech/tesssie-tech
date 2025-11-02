@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**tesssie-tech/tesssie-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Theresa-.O.-Akuruli
+Hi there, I'm Theresa Akuruli
 
-Here are some ideas to get you started:
+Computer Science Student | Data Enthusiast | Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I’m passionate about building scalable systems, solving data problems, and using technology to create meaningful impact.
+
+About Me
+I’m a Computer Science student passionate about building scalable, data-driven systems and intuitive digital solutions. I enjoy solving real-world problems with code and continuously improving my skills in software development and AI.
+
+Currently, I’m exploring JavaScript and full-stack development while working on projects that combine backend systems with intelligent data processing. I’m eager to contribute to innovative teams where I can grow as a developer and make an impact.
+
+Tech Stack
+Languages: Python, JavaScript, SQL
+Web: HTML, CSS, React, Node.js
+Tools: Git, GitHub, VS Code, MySQL
+Currently exploring: AI integration in web systems
+
+🌐 Connect With Me
+LinkedIn : www.linkedin.com/in/theresa-akuruli-121472379
+Gmail : karoak507@gmail.com
